@@ -1,0 +1,1082 @@
+[
+    {
+        "Expression": "sin ? = a/c",
+        "Answer": "A",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin ? = b/c",
+        "Answer": "B",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = a/c",
+        "Answer": "B",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = b/c",
+        "Answer": "A",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = a/b",
+        "Answer": "A",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = b/a",
+        "Answer": "B",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin θ = a/?",
+        "Answer": "c",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = b/?",
+        "Answer": "c",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = a/?",
+        "Answer": "c",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = b/?",
+        "Answer": "c",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = a/?",
+        "Answer": "b",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = b/?",
+        "Answer": "a",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/c",
+        "Answer": "a",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/c",
+        "Answer": "b",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/c",
+        "Answer": "b",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/c",
+        "Answer": "a",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/b",
+        "Answer": "a",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/a",
+        "Answer": "b",
+        "LineA": "a",
+        "LineB": "b",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin ? = a/b",
+        "Answer": "A",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin ? = c/b",
+        "Answer": "B",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = a/b",
+        "Answer": "B",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = c/b",
+        "Answer": "A",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = a/c",
+        "Answer": "A",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = c/a",
+        "Answer": "B",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin θ = a/?",
+        "Answer": "b",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = c/?",
+        "Answer": "b",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = a/?",
+        "Answer": "b",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = c/?",
+        "Answer": "b",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = a/?",
+        "Answer": "c",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = c/?",
+        "Answer": "a",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/b",
+        "Answer": "a",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/b",
+        "Answer": "c",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/b",
+        "Answer": "c",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/b",
+        "Answer": "a",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/c",
+        "Answer": "a",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/a",
+        "Answer": "c",
+        "LineA": "a",
+        "LineB": "c",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin ? = b/c",
+        "Answer": "A",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin ? = a/c",
+        "Answer": "B",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = b/c",
+        "Answer": "B",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = a/c",
+        "Answer": "A",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = b/a",
+        "Answer": "A",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = a/b",
+        "Answer": "B",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin θ = b/?",
+        "Answer": "c",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = a/?",
+        "Answer": "c",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = b/?",
+        "Answer": "c",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = a/?",
+        "Answer": "c",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = b/?",
+        "Answer": "a",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = a/?",
+        "Answer": "b",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/c",
+        "Answer": "b",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/c",
+        "Answer": "a",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/c",
+        "Answer": "a",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/c",
+        "Answer": "b",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/a",
+        "Answer": "b",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/b",
+        "Answer": "a",
+        "LineA": "b",
+        "LineB": "a",
+        "LineC": "c",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin ? = b/a",
+        "Answer": "A",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin ? = c/a",
+        "Answer": "B",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = b/a",
+        "Answer": "B",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = c/a",
+        "Answer": "A",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = b/c",
+        "Answer": "A",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = c/b",
+        "Answer": "B",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin θ = b/?",
+        "Answer": "a",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = c/?",
+        "Answer": "a",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = b/?",
+        "Answer": "a",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = c/?",
+        "Answer": "a",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = b/?",
+        "Answer": "c",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = c/?",
+        "Answer": "b",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/a",
+        "Answer": "b",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/a",
+        "Answer": "c",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/a",
+        "Answer": "c",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/a",
+        "Answer": "b",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/c",
+        "Answer": "b",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/b",
+        "Answer": "c",
+        "LineA": "b",
+        "LineB": "c",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin ? = c/b",
+        "Answer": "A",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin ? = a/b",
+        "Answer": "B",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = c/b",
+        "Answer": "B",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = a/b",
+        "Answer": "A",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = c/a",
+        "Answer": "A",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = a/c",
+        "Answer": "B",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin θ = c/?",
+        "Answer": "b",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = a/?",
+        "Answer": "b",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = c/?",
+        "Answer": "b",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = a/?",
+        "Answer": "b",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = c/?",
+        "Answer": "a",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = a/?",
+        "Answer": "c",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/b",
+        "Answer": "c",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/b",
+        "Answer": "a",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/b",
+        "Answer": "a",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/b",
+        "Answer": "c",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/a",
+        "Answer": "c",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/c",
+        "Answer": "a",
+        "LineA": "c",
+        "LineB": "a",
+        "LineC": "b",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin ? = c/a",
+        "Answer": "A",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin ? = b/a",
+        "Answer": "B",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = c/a",
+        "Answer": "B",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "cos ? = b/a",
+        "Answer": "A",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = c/b",
+        "Answer": "A",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "tan ? = b/c",
+        "Answer": "B",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "A",
+        "AngleB": "B",
+        "AngleC": "C"
+    },
+    {
+        "Expression": "sin θ = c/?",
+        "Answer": "a",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = b/?",
+        "Answer": "a",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = c/?",
+        "Answer": "a",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = b/?",
+        "Answer": "a",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = c/?",
+        "Answer": "b",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = b/?",
+        "Answer": "c",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/a",
+        "Answer": "c",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "sin θ = ?/a",
+        "Answer": "b",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/a",
+        "Answer": "b",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "cos θ = ?/a",
+        "Answer": "c",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/b",
+        "Answer": "c",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "θ",
+        "AngleB": "",
+        "AngleC": ""
+    },
+    {
+        "Expression": "tan θ = ?/c",
+        "Answer": "b",
+        "LineA": "c",
+        "LineB": "b",
+        "LineC": "a",
+        "AngleA": "",
+        "AngleB": "θ",
+        "AngleC": ""
+    }
+]

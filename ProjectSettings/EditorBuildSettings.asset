@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: 1a32f241d44faf94d89eddaab1ab5dd8
+  - enabled: 1
+    path: Assets/Scenes/KitchenLobbyScene.unity
+    guid: b5bad19a133afcd45af950094253a084
+  - enabled: 1
+    path: Assets/Scenes/TriangleLobbyScene.unity
+    guid: 0504a1562e589394cb594fe1f92f4b78
+  - enabled: 1
+    path: Assets/Scenes/FootballLobbyScene.unity
+    guid: 3798b5bd25d8c6640a2047d288cd4c23
+  - enabled: 1
+    path: Assets/Scenes/CardLobbyScene.unity
+    guid: 757667ac8a3d465479e383b3337e3146
+  - enabled: 1
+    path: Assets/Scenes/KitchenScene.unity
+    guid: 5058462f32a582e4eb205f7d48c1a5ac
+  - enabled: 1
+    path: Assets/Scenes/TriangleScene.unity
+    guid: 18027f1a4e111c240a64667412420fe3
+  - enabled: 1
+    path: Assets/Scenes/FootballScene.unity
+    guid: a05f3e861927a6047bb925d7974900f3
+  - enabled: 1
+    path: Assets/Scenes/CardScene.unity
+    guid: 13248b0454cdd98439b8ad735c08e35f
+  - enabled: 1
+    path: Assets/Scenes/CardMultiScene.unity
+    guid: 99f52e5f1c76ce6429c86febcc897cce
+  - enabled: 1
+    path: Assets/Scenes/SettingsScene.unity
+    guid: be6695bd341e18e48866be3d26c52d82
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb1aac222c15918468b208f46b0126f5, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4746ffc6c62a79b479be92bb465fd5dc, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9f880b1f2d9602242b75b2ec14584b9c, type: 2}
